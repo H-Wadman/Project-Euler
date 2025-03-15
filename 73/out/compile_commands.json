@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/73/out",
-  "command": "/opt/homebrew/Cellar/llvm/17.0.4/bin/clang++  -I/usr/local/include -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -O2 -o CMakeFiles/73.dir/73.cpp.o -c /Users/hannes/Coding/Cpp/challenges/Project_Euler/73/73.cpp",
-  "file": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/73/73.cpp",
-  "output": "CMakeFiles/73.dir/73.cpp.o"
-}
-]
