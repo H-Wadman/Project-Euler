@@ -1,1 +1,0 @@
-/opt/homebrew/Cellar/llvm/17.0.4/bin/clang++ -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/75.dir/75.cpp.o -o 75 
