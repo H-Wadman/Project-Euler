@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/75/relwdebug",
+  "command": "/opt/homebrew/Cellar/llvm/17.0.4/bin/clang++  -I/Users/hannes/Coding/Cpp/challenges/Project_Euler/75/relwdebug -I/opt/homebrew/include -O2 -g -DNDEBUG -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -O2 -o CMakeFiles/75.dir/75.cpp.o -c /Users/hannes/Coding/Cpp/challenges/Project_Euler/75/75.cpp",
+  "file": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/75/75.cpp",
+  "output": "CMakeFiles/75.dir/75.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/75/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hannes/Coding/Cpp/challenges/Project_Euler/75/debug -I/opt/homebrew/include -I/opt/homebrew/Cellar/llvm/17.0.4/include/c++/v1 -g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wall -Wextra -Werror -g -fsanitize=address -o CMakeFiles/75.dir/75.cpp.o -c /Users/hannes/Coding/Cpp/challenges/Project_Euler/75/75.cpp",
+  "file": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/75/75.cpp",
+  "output": "CMakeFiles/75.dir/75.cpp.o"
+}
+]

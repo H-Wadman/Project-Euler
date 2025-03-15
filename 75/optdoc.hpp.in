@@ -1,0 +1,2 @@
+#define @DOCTEST@
+#include <doctest/doctest.h>

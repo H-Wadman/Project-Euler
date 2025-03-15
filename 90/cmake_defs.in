@@ -1,0 +1,2 @@
+#define @DOCTEST_CONFIG@
+#define SOURCE "@CMAKE_SOURCE_DIR@"

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/87/debug",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/hannes/Coding/Cpp/challenges/Project_Euler/87/debug -I/opt/homebrew/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.0 -g -Wall -Wextra -Werror -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/main.dir/main.cpp.o -c /Users/hannes/Coding/Cpp/challenges/Project_Euler/87/main.cpp",
+  "file": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/87/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

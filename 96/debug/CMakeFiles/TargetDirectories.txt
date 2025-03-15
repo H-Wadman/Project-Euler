@@ -1,0 +1,3 @@
+/Users/hannes/Coding/Cpp/challenges/Project_Euler/96/debug/CMakeFiles/96.dir
+/Users/hannes/Coding/Cpp/challenges/Project_Euler/96/debug/CMakeFiles/edit_cache.dir
+/Users/hannes/Coding/Cpp/challenges/Project_Euler/96/debug/CMakeFiles/rebuild_cache.dir
