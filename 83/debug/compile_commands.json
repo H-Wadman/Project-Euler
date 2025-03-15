@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/83/debug",
-  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/include -g -std=gnu++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.0 -Wall -Wextra -fsanitize=address,undefined -fno-omit-frame-pointer -g -fcolor-diagnostics @CMakeFiles/solution.dir/main.cpp.o.modmap -o CMakeFiles/solution.dir/main.cpp.o -c /Users/hannes/Coding/Cpp/challenges/Project_Euler/83/main.cpp",
-  "file": "/Users/hannes/Coding/Cpp/challenges/Project_Euler/83/main.cpp",
-  "output": "CMakeFiles/solution.dir/main.cpp.o"
-}
-]

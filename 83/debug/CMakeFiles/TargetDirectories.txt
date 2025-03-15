@@ -1,5 +1,0 @@
-/Users/hannes/Coding/Cpp/challenges/Project_Euler/83/debug/CMakeFiles/__cmake_cxx23.dir
-/Users/hannes/Coding/Cpp/challenges/Project_Euler/83/debug/CMakeFiles/__cmake_cxx26.dir
-/Users/hannes/Coding/Cpp/challenges/Project_Euler/83/debug/CMakeFiles/solution.dir
-/Users/hannes/Coding/Cpp/challenges/Project_Euler/83/debug/CMakeFiles/edit_cache.dir
-/Users/hannes/Coding/Cpp/challenges/Project_Euler/83/debug/CMakeFiles/rebuild_cache.dir
