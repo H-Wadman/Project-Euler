@@ -6,15 +6,14 @@
 #include <filesystem>
 #include <fmt/base.h>
 #include <fmt/ranges.h>
-#include <fstream> #include <functional>
+#include <fstream>
 #include <limits>
 #include <ranges>
 
 namespace rg        = std::ranges;
 namespace fs        = std::filesystem;
 namespace container = boost::container;
-
-using Coord = std::pair<int, int>;
+using Coord         = std::pair<int, int>;
 
 namespace
 {
@@ -55,7 +54,8 @@ auto read_matrix(const fs::path& p) -> Matrix<N>
 
         auto convert{[](const std::string& s) -> int {
             int res{};
-            auto [_, ec]{std::from_chars(s.data(), s.data() + s.size(), res)};
+            auto [_, ec]{
+                std::from_chars(s.data(), s.data() + s.size(), res)}; //NOLINT
 
             assert(ec == std::errc{});
 
